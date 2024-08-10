@@ -1,0 +1,6 @@
+5
+(id:100000~name:pragya~password:EFGH~ammount:1000~)
+(id:100001~name:amezan~password:MLLL~ammount:0~)
+(id:100002~name:prakash~password:EFGH~ammount:0~)
+(id:100003~name:prachanda~password:EFGH~ammount:3000~)
+(id:100004~name:kpoli~password:EFGH~ammount:1000~)
